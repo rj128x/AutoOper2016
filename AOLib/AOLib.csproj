@@ -35,6 +35,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>libs\log4net.dll</HintPath>
     </Reference>
+    <Reference Include="OpenPop">
+      <HintPath>libs\OpenPop.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Core" />
@@ -48,6 +51,8 @@
   <ItemGroup>
     <Compile Include="AOLibClass.cs" />
     <Compile Include="AOService.cs" />
+    <Compile Include="Mail\MailClass.cs" />
+    <Compile Include="PBR\PBR.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
