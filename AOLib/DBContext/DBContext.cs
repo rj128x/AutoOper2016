@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace AOLib {
-    public class DBClass {
+    public class DBContext {
     }
 }

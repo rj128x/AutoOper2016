@@ -60,7 +60,6 @@
   <ItemGroup>
     <Compile Include="AOLibClass.cs" />
     <Compile Include="AOService.cs" />
-    <Compile Include="DBClass.cs" />
     <Compile Include="Mail\MailClass.cs" />
     <Compile Include="PBR\PBR.cs" />
     <Compile Include="Properties\Settings.Designer.cs">

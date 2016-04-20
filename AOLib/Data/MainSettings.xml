@@ -10,4 +10,16 @@
   <smtpFrom>TBP@votges.rushydro.ru</smtpFrom>
   <logFolder>C:/AOlogs/</logFolder>
 
+  <DBHost>sr-votges-015\sqlexpress</DBHost>
+  <DBName>AODB</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>psWD!159!</DBPassword>
+
+  <DBHostRez>sr-votges-015\sqlexpress</DBHostRez>
+  <DBNameRez>AODB</DBNameRez>
+  <DBUserRez>sa</DBUserRez>
+  <DBPasswordRez>psWD!159!</DBPasswordRez>
+  
+
+
 </Settings>
